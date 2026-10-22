@@ -1,0 +1,13 @@
+# OpenStack
+
+OpenStack is a set of software components that provide common services for cloud infrastructure.
+
+## Índice
+
+1. Introducción
+2. Componentes principales
+3. Entorno de pruebas
+
+## Referencia
+
+OpenStack
